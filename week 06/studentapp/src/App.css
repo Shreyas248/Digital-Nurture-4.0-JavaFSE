@@ -1,0 +1,22 @@
+/* src/App.css */
+
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* vertical center */
+  align-items: center;     /* horizontal center */
+  height: 100vh;           /* full viewport height */
+  text-align: center;
+  font-family: Arial, sans-serif;
+  background-color: #f0f8ff; /* optional light background */
+}
+
+h1 {
+  margin-bottom: 30px;
+  color: #333;
+}
+
+h2 {
+  margin: 10px 0;
+  color: #555;
+}

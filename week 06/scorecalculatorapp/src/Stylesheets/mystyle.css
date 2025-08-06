@@ -1,0 +1,51 @@
+/* src/Stylesheets/mystyle.css */
+
+.score-card {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+.title {
+  color: brown;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.name {
+  color: blue;
+}
+
+.school {
+  color: red;
+}
+
+.total {
+  color: maroon;
+}
+
+.score {
+  color: green;
+}
+
+.value {
+  font-weight: normal;
+}
+
+.blue {
+  color: #4b63ff;
+}
+
+.violet {
+  color: violet;
+}
+
+.black {
+  color: black;
+}
+
+.green {
+  color: #4caf50;
+}
